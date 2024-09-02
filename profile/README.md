@@ -1,5 +1,3 @@
 
-"allofphysics" is an organization on Github.com focused on the Physics Derivation Graph. 
-
-<https://derivationmap.net>
+The Physics Derivation Graph (<https://allofphysics.com>) and associated software explorations. 
 
